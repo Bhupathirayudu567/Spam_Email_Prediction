@@ -92,8 +92,8 @@ else:
 ```
 
 ## 🚀 Results
-- **Training Accuracy**: ✅ *Displayed in the output*
-- **Testing Accuracy**: ✅ *Displayed in the output*
+- **Training Accuracy**: ✅ * 0.9676912721561588*
+- **Testing Accuracy**: ✅ *0.9668161434977578*
 - The model successfully classifies emails as **Spam** or **Ham**.
 
 ## 📌 How to Run the Project
